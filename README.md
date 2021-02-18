@@ -11,4 +11,4 @@
 1. git pull 
 
 ## Comando básico para clonar repositorio
-1. git clone <ssh> 
+1. git clone ssh||http (yo uso http)
